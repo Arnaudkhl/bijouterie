@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Arnaudkhl/-planet-in-space.git/static/css/main.aac5d005.chunk.css",
-    "main.js": "/Arnaudkhl/-planet-in-space.git/static/js/main.3203d461.chunk.js",
-    "main.js.map": "/Arnaudkhl/-planet-in-space.git/static/js/main.3203d461.chunk.js.map",
-    "runtime-main.js": "/Arnaudkhl/-planet-in-space.git/static/js/runtime-main.0e009ae3.js",
-    "runtime-main.js.map": "/Arnaudkhl/-planet-in-space.git/static/js/runtime-main.0e009ae3.js.map",
-    "static/js/2.390570aa.chunk.js": "/Arnaudkhl/-planet-in-space.git/static/js/2.390570aa.chunk.js",
-    "static/js/2.390570aa.chunk.js.map": "/Arnaudkhl/-planet-in-space.git/static/js/2.390570aa.chunk.js.map",
-    "static/js/3.9ac13093.chunk.js": "/Arnaudkhl/-planet-in-space.git/static/js/3.9ac13093.chunk.js",
-    "static/js/3.9ac13093.chunk.js.map": "/Arnaudkhl/-planet-in-space.git/static/js/3.9ac13093.chunk.js.map",
+    "main.js": "/Arnaudkhl/-planet-in-space.git/static/js/main.87ab7202.chunk.js",
+    "main.js.map": "/Arnaudkhl/-planet-in-space.git/static/js/main.87ab7202.chunk.js.map",
+    "runtime-main.js": "/Arnaudkhl/-planet-in-space.git/static/js/runtime-main.e6596783.js",
+    "runtime-main.js.map": "/Arnaudkhl/-planet-in-space.git/static/js/runtime-main.e6596783.js.map",
+    "static/js/2.b2cd4dc6.chunk.js": "/Arnaudkhl/-planet-in-space.git/static/js/2.b2cd4dc6.chunk.js",
+    "static/js/2.b2cd4dc6.chunk.js.map": "/Arnaudkhl/-planet-in-space.git/static/js/2.b2cd4dc6.chunk.js.map",
+    "static/js/3.3eddb668.chunk.js": "/Arnaudkhl/-planet-in-space.git/static/js/3.3eddb668.chunk.js",
+    "static/js/3.3eddb668.chunk.js.map": "/Arnaudkhl/-planet-in-space.git/static/js/3.3eddb668.chunk.js.map",
     "index.html": "/Arnaudkhl/-planet-in-space.git/index.html",
     "static/css/main.aac5d005.chunk.css.map": "/Arnaudkhl/-planet-in-space.git/static/css/main.aac5d005.chunk.css.map",
-    "static/js/2.390570aa.chunk.js.LICENSE.txt": "/Arnaudkhl/-planet-in-space.git/static/js/2.390570aa.chunk.js.LICENSE.txt",
+    "static/js/2.b2cd4dc6.chunk.js.LICENSE.txt": "/Arnaudkhl/-planet-in-space.git/static/js/2.b2cd4dc6.chunk.js.LICENSE.txt",
     "static/media/p1.7b596af1.svg": "/Arnaudkhl/-planet-in-space.git/static/media/p1.7b596af1.svg",
     "static/media/p3.2c3b9fc5.svg": "/Arnaudkhl/-planet-in-space.git/static/media/p3.2c3b9fc5.svg",
     "static/media/p4.109a8853.svg": "/Arnaudkhl/-planet-in-space.git/static/media/p4.109a8853.svg",
@@ -19,9 +19,9 @@
     "static/media/App.css": "/Arnaudkhl/-planet-in-space.git/static/media/space1.6f7f053a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e009ae3.js",
-    "static/js/2.390570aa.chunk.js",
+    "static/js/runtime-main.e6596783.js",
+    "static/js/2.b2cd4dc6.chunk.js",
     "static/css/main.aac5d005.chunk.css",
-    "static/js/main.3203d461.chunk.js"
+    "static/js/main.87ab7202.chunk.js"
   ]
 }
